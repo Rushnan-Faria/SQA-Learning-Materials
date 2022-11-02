@@ -47,5 +47,20 @@ This repository is to keep track of learning materials of SQA.
     </ul>
     </td>
   </tr>
+  <tr>
+    <td>25-10-2022</td>
+    <td><ul>
+    <li>https://en.wikipedia.org/wiki/List_of_HTTP_status_codes</li>
+    <li>https://restfulapi.net/http-methods/</li>
+    </ul>
+    </td>
+  </tr>
+   <tr>
+    <td>28-10-2022 to 31-10-2022</td>
+    <td><ul>
+    <li>https://sqlbolt.com</li>
+    </ul>
+    </td>
+  </tr>
 </table>
                                                                       
