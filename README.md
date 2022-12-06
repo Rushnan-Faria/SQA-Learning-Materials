@@ -62,5 +62,18 @@ This repository is to keep track of learning materials of SQA.
     </ul>
     </td>
   </tr>
+  <tr>
+    <td>23-11-2022</td>
+    <td><ul>
+    <li>https://www.youtube.com/watch?v=WhFgLmsMhGc</li>
+<li>https://www.youtube.com/watch?v=0oC2SkiDQ1I&list=PLZKyog6KJXfsUGvfsTQAUvbE0ieNdIILn</li>
+<li>https://www.guru99.com/testing-mobile-apps.html</li>
+<li>https://www.youtube.com/watch?v=2FE_RBxVnLg</li>
+<li>https://www.softwaretestinghelp.com/test-case-template-examples/</li>
+<li>https://www.tutorialspoint.com/gui-testing-tutorial-user-interface-ui-test-cases-with-examples</li>
+<li>https://www.guru99.com/test-plan-for-project.html</li>
+    </ul>
+    </td>
+  </tr>
 </table>
                                                                       
