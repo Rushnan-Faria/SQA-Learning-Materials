@@ -76,7 +76,7 @@ This repository is to keep track of learning materials of SQA.
     </td>
   </tr>
    <tr>
-    <td>23-11-2022</td>
+    <td>30-01-2023</td>
     <td><ul>
     <li>https://www.guru99.com/scaled-agile-framework.html</li>
     </ul>
