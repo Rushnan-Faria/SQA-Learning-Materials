@@ -82,5 +82,12 @@ This repository is to keep track of learning materials of SQA.
     </ul>
     </td>
   </tr>
+     <tr>
+    <td>02-02-2023</td>
+    <td><ul>
+    <li>https://www.youtube.com/watch?v=1RilyCsxp7U</li>
+    </ul>
+    </td>
+  </tr>
 </table>
                                                                       
